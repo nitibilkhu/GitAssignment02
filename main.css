@@ -1,13 +1,11 @@
- body {
+<style>
+body {
   background-color: lightblue;
 }
+</style>
+</head>
+<body>
 
-h1 {
-  color: white;
-  text-align: center;
-}
+<h1>Hello World!</h1>
 
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
+<p>This page has a light blue background color!</p>
